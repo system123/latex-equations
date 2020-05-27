@@ -11,4 +11,11 @@ Normalized Cross Correlation (NCC)
 \end{equation}
 ```
 
+Mutual Information
+```
+\begin{equation}
+	\text{MI}(\mathbf{T}, \mathbf{R}) = H(\mathbf{T}) + H(\mathbf{R}) - H(\mathbf{T}, \mathbf{R}),
+\end{equation}
+```
+
 ## Deep Learning
